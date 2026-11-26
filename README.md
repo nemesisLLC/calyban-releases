@@ -1,8 +1,8 @@
 # Calyban releases
 
-Official installers for [Calyban](https://calyban.com), the free app that installs skills, MCP servers and plugins for Claude Code and Codex in one click.
+Official installers for [Calyban](https://calyban.com), the free Windows and Linux app that installs skills, MCP servers, subagents and plugins for Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI and Claude Desktop in one click, checks them first, and undoes any install in one more.
 
-**Download:** [calyban.com](https://calyban.com/#download)
+**Download:** [calyban.com](https://calyban.com/#download) (Windows installer, Linux AppImage or .deb) or [the latest release](https://github.com/nemesisLLC/calyban-releases/releases/latest)
 
 This repository holds only the release files and the auto-update feed that installed copies of Calyban check. The app's source code is not published here. Calyban is proprietary software, free to use; see the license at [calyban.com/license](https://calyban.com/license).
 
